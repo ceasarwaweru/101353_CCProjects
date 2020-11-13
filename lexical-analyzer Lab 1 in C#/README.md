@@ -1,6 +1,6 @@
 # Lexical Analyzer in CSharp
 
-### Compiler Lab- C# to analyze code
+### Compiler Lab- C# to analyze code and counting numbers and consonants
 
 
 0. Run Analyzer.exe and have a look!
